@@ -1,0 +1,3 @@
+Scan ID,Technique,Title,Charge,µAmps min,µAmps max,Volts min,Volts max
+282,Mixed Mode,"Na Halfcell 2-5, WE non-graphitic C, CE Na metal",-5.07E-05,-0.764385,-0.457439,-10.2139,-0.310578
+312,Mixed Mode,"Charging, Na Halfcell 2-5, WE non-graphitic C, CE Na metal",-3.241375831,-527.944,-0.303966,-10.2139,0.0631048

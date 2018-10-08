@@ -1,0 +1,3 @@
+Scan ID,Technique,Title,Charge,µAmps min,µAmps max,Volts min,Volts max,Notes
+158,ChronoAmperometry,Na Halfcell 01,-8.23E-06,-0.457439,-0.457439,-3.99841,-3.99803,
+163,ChronoAmperometry,Na Halfcell 01,-8.97E-05,-0.610912,-0.457439,-3.99841,-3.99803,

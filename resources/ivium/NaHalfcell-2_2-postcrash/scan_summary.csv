@@ -1,0 +1,26 @@
+Scan ID,Technique,Title,Charge,µAmps min,µAmps max,Volts min,Volts max
+158,ChronoPotentiometry,Na Halfcell 01,-0.002,-25.2,-20.6,-1.00,-0.47
+159,ChronoPotentiometry,Na Halfcell 01,-0.179,-29.5,-23.6,-3.05,-0.62
+161,ChronoPotentiometry,Na Halfcell 2-2,-0.082,-28.8,-21.0,-2.00,0.43
+162,ChronoPotentiometry,Na Halfcell 2-2,-0.011,-100.5,-91.3,-5.11,-1.51
+163,ChronoPotentiometry,Na Halfcell 2-2,-0.005,-99.9,-99.3,-5.11,-4.60
+164,ChronoPotentiometry,Na Halfcell 2-2,-0.050,-50.0,-49.6,-3.83,-3.48
+165,ChronoAmperometry,Na Halfcell 2-2,-1.538,-6932.8,-54.8,-4.20,-3.60
+166,ChronoAmperometry,Na Halfcell 2-2,-1.454,-3154.3,-59.4,-3.60,-3.60
+167,ChronoAmperometry,Na Halfcell 2-2,-1.074,-828.6,-20.0,-3.60,-3.00
+168,ChronoAmperometry,Na Halfcell 2-2,-0.769,-1543.5,-14.7,-3.80,-3.00
+169,ChronoAmperometry,Na Halfcell 2-2,-1.272,-991.9,-329.4,-3.70,-3.70
+170,ChronoAmperometry,Na Halfcell 2-2,-0.830,-1198.5,-445.5,-3.60,-3.60
+176,Mixed Mode,Na Halfcell 2-2,0.029,-0.3,241.3,-2.87,6.11
+177,Mixed Mode,Na Halfcell 2-2,0.015,-0.2,72.0,-0.49,6.18
+178,Mixed Mode,Na Halfcell 2-2,0.158,-1.2,42.1,0.93,6.19
+179,Mixed Mode,Na Halfcell 2-2,2.970,-1.1,277.9,2.97,10.02
+180,Mixed Mode,Na Halfcell 2-2,1.293,265.7,284.4,7.33,10.29
+182,ChronoAmperometry,Na Halfcell 2-2,0.000,1.7,3.4,3.30,3.30
+183,ChronoAmperometry,Na Halfcell 2-2,0.001,5.8,12.0,3.50,3.50
+184,ChronoAmperometry,Na Halfcell 2-2,0.020,3.4,16.9,3.80,3.80
+185,ChronoAmperometry,Na Halfcell 2-2,0.001,13.5,20.9,4.20,4.20
+186,ChronoPotentiometry,Na Halfcell 2-2,0.006,98.4,100.2,6.81,7.09
+187,ChronoAmperometry,Na Halfcell 2-2,0.011,15.7,22.9,4.20,4.20
+188,ChronoAmperometry,Na Halfcell 2-2,1.151,217.8,898.4,9.49,9.49
+189,ChronoAmperometry,Na Halfcell 2-2,0.013,211.2,276.6,9.49,9.49
